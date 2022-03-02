@@ -1,3 +1,2 @@
-# odin_landing_page
-Landing Page
+#Landing Page
 
